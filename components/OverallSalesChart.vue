@@ -1,7 +1,8 @@
 <template>
-  <p>temp</p>
+    
 </template>
 
 <script setup lang="ts">
+
 
 </script>
